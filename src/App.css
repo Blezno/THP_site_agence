@@ -1,0 +1,30 @@
+body {
+  background-color: whitesmoke;
+  color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a {
+  margin: 2rem;
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 8px;
+  border-color: #2C0703;
+}
+
+.navbarItems {
+  padding: 40px;
+  background-color: #B6465F;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.title {
+  background-color: blue;
+}
+
+.text {
+  background-color: aqua;
+}
