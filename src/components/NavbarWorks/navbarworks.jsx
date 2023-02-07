@@ -5,8 +5,8 @@ const NavbarWorks = ( ) => {
 return (
 <div className='navbarworksItems'>
 <Link to="/">Platon</Link>
-<Link to="/about">About</Link>
-<Link to="/works">Works</Link>
+<Link to="/about">Solane</Link>
+<Link to="/works">Sedal</Link>
 </div>
 )};
 export default NavbarWorks;
